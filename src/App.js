@@ -99,7 +99,7 @@ class App extends Component {
       return (
       
         <div className="container newTable newImage">
-        <h2>Financial Currency Converter</h2>
+        <h2>Currency Converter</h2>
           
           <table>
             <tr>
